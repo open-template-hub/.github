@@ -1,13 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Hotfix
+about: Create a report to fix production issue
 title: ''
-labels: bug
+labels: hotfix
 assignees: ''
 
 ---
 
-{BUG_DESCRIPTION}
+{HOTFIX_DESCRIPTION}
 
 ### Supplementary Info
 
