@@ -1,0 +1,17 @@
+silent: false
+autoCloseIssue: true
+branchName: 'issue-${issue.number}-${issue.title}'
+branches:
+  - label: enhancement
+    prefix: feature/
+  - label: bug
+    prefix: bugfix/
+  - label: documentation
+    prefix: document/
+  - label: quality
+    prefix: quality/
+  - label: hotfix
+    prefix: hotfix/
+    name: master
+  - label: '*'
+    prefix: issues/
