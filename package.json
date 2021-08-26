@@ -1,0 +1,16 @@
+{
+  "name": "@open-template-hub/.github",
+  "version": "1.0.0",
+  "description": "Open Template Hub .github",
+  "git repository": "https://github.com/open-template-hub/.github",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-template-hub/.github.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  }
+}
