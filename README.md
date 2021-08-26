@@ -5,5 +5,7 @@
 </p>
 
 <h1 align="center">
-Open Template Hub .github Project
+Open Template Hub .github
 </h1>
+
+Repository for Open Template Hub Organization level GitHub issue templates and issue > branch binding configurations
