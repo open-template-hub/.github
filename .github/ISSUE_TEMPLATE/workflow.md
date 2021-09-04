@@ -1,8 +1,8 @@
 ---
-name: Documentation request
-about: Suggest a documentation for this project
+name: Workflow request
+about: Suggest a workflow for this project
 title: ''
-labels: documentation
+labels: workflow
 assignees: ''
 
 ---

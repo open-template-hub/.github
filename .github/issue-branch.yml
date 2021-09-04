@@ -15,5 +15,7 @@ branches:
     name: master
   - label: quality
     prefix: quality/
+  - label: workflow
+    prefix: workflow/
   - label: '*'
     prefix: issues/
