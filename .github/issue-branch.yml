@@ -1,6 +1,7 @@
 silent: false
-autoCloseIssue: true
-branchName: 'issue-${issue.number}-${issue.title}'
+autoCloseIssue: false
+branchName: '${issue.title} #${issue.number}'
+
 branches:
   - label: bug
     prefix: bug/
@@ -10,12 +11,12 @@ branches:
     prefix: documentation/
   - label: feature
     prefix: feature/
-  - label: hotfix
-    prefix: hotfix/
-    name: master
   - label: quality
     prefix: quality/
   - label: workflow
     prefix: workflow/
+  - label: hotfix
+    prefix: hotfix/
+    name: master
   - label: '*'
-    prefix: issues/
+    prefix: issue/
