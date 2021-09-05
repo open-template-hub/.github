@@ -1,6 +1,8 @@
 silent: false
 autoCloseIssue: false
-branchName: '${issue.title}#${issue.number}'
+
+branchName: '${issue.title,}'
+gitSafeReplacementChar: '-'
 
 branches:
   - label: bug
