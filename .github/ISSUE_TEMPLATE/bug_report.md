@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a bug report 
 title: ''
 labels: bug 
@@ -8,9 +8,7 @@ assignees: ''
 ---
 
 <p align="center"><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken.png" alt="Logo" width=100></a></p>
-<h1 align="center">Open Template Hub - Bug Report</h1>
-
-Please define the problem in the sections below
+<h2 align="center">Open Template Hub - Bug Report</h2>
 
 ## Bug Description
 

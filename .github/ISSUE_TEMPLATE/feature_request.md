@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest an idea for this project
 title: ''
 labels: feature
@@ -7,17 +7,18 @@ assignees: ''
 
 ---
 
-1. {ACTION_ITEM}
+<p align="center"><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken.png" alt="Logo" width=100></a></p>
+<h2 align="center">Open Template Hub - Feature Request</h2>
 
-- {CONDITION}
+### Bug Description
+
+Define the feature clearly
 
 ### Supplementary Info
 
-Click images below for more information about planned result
+Links, images, screenshots etc.
 
-<!-- InVision -->
-<p>
-  <a href="{RESOURCE_URL}">
-    <img src="https://avatars0.githubusercontent.com/u/1536893?s=200&v=4" width=80 height=80 alt="logo">
-  </a>
-</p>
+
+
+
+<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2021</b></td></tr></table>
