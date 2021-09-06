@@ -1,38 +1,38 @@
----
-name: Bug report
-about: Create a bug report
-title: ''
-labels: bug
-assignees: ''
-
----
-
 <p align="center">
    <a href="https://opentemplatehub.com">
     <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken.png" alt="Logo" width=100>
   </a>
 </p>
 
-<h2 align="center">
+<h1 align="center">
 Open Template Hub - Bug Report
-</h2>
-<hr/>
+</h1>
 
-Please define the problem in the section below
+Please define the problem in the sections below
 
-<hr/>
+## Bug Description
 
-### Bug Description
-
+Define the problem clearly
 
 
 
 
 
 
-### Supplementary Info
+
+
+
+
+## Supplementary Info
 
 Links, images, screenshots etc.
+
+
+
+
+
+
+
 
 
 
