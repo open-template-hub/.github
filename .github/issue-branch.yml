@@ -4,6 +4,8 @@ autoCloseIssue: false
 branchName: '${issue.title,}'
 gitSafeReplacementChar: '-'
 
+openDraftPR: true
+
 branches:
   - label: bug
     prefix: bug/
