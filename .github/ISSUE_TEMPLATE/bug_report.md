@@ -17,23 +17,9 @@ Define the problem clearly
 
 
 
-
-
-
-
-
-
 ## Supplementary Info
 
 Links, images, screenshots etc.
-
-
-
-
-
-
-
-
 
 
 
