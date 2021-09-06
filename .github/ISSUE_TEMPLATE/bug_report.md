@@ -1,22 +1,56 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug report
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-{BUG_DESCRIPTION}
+<p align="center">
+   <a href="https://opentemplatehub.com">
+    <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken.png" alt="Logo" width=100>
+  </a>
+</p>
+
+<h2 align="center">
+Open Template Hub - Bug Report
+</h2>
+<hr/>
+
+Please define the problem in the section below
+
+<hr/>
+
+### Bug Description
+
+
+
+
+
+
 
 ### Supplementary Info
 
-Click images below for more information about the bug
+Links, images, screenshots etc.
 
-<!-- InVision -->
 
-<p>
-  <a href="{RESOURCE_URL}">
-    <img src="https://avatars0.githubusercontent.com/u/1536893?s=200&v=4" width=80 height=80 alt="logo">
-  </a>
-</p>
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://opentemplatehub.com">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/>
+      </a>
+    </td>
+    <td vlign="center">
+      <b>Open Template Hub © 2021</b>
+    </td>
+  </tr>
+</table>
