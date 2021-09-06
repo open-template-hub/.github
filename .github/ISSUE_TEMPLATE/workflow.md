@@ -11,7 +11,7 @@ assignees: ''
 <p align="center"><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-build.gif" alt="Logo" width=150></a></p>
 <h2 align="center">Open Template Hub - Workflow Request</h2>
 
-### Bug Description
+### Description
 
 Define the workflow request clearly
 
