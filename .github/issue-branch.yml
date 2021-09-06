@@ -5,6 +5,7 @@ branchName: '${issue.title,}'
 gitSafeReplacementChar: '-'
 
 openDraftPR: true
+copyIssueDescriptionToPR: true
 
 branches:
   - label: bug
