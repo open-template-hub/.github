@@ -1,3 +1,9 @@
+---
+name: Bug report about: Create a bug report title: ''
+labels: bug assignees: ''
+
+---
+
 <p align="center">
    <a href="https://opentemplatehub.com">
     <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken.png" alt="Logo" width=100>
@@ -17,9 +23,19 @@ Define the problem clearly
 
 
 
+
+
+
+
+
+
 ## Supplementary Info
 
 Links, images, screenshots etc.
+
+
+
+
 
 
 
