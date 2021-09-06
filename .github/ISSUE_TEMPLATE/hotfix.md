@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<p align="center"><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken-red-alert.png" alt="Logo" width=150></a></p>
+<p align="center"><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-broken-red-alert.gif" alt="Logo" width=150></a></p>
 <h2 align="center">Open Template Hub - Hotfix</h2>
 
 ### Bug Description
