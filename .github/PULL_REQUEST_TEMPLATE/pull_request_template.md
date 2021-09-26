@@ -1,3 +1,8 @@
+---
+name: Pull Request
+
+---
+
 <p align="center"><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" alt="Logo" width=150></a></p>
 <h2 align="center">Open Template Hub - Pull Request</h2>
 
