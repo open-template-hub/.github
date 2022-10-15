@@ -10,7 +10,7 @@ Open Template Hub
 
 Open Source first organization that helps you to minimize the effort while building a new software business with our server and UI templates
 
-### Our Open Source Server Packages
+### Open Source Server Packages
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ Open Source first organization that helps you to minimize the effort while build
   </tr>
 </table>
 
-### Our Open Source UI Packages
+### Open Source UI Packages
 
 <table>
   <tr>
@@ -140,6 +140,46 @@ Open Source first organization that helps you to minimize the effort while build
         <sub>
           <b>
             Admin UI
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Premium Packages
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://opentemplatehub.com/en-US/product/premium/orchestration-server-template">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/orchestration-server-logo.png" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>
+            Orchestration Server
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opentemplatehub.com/en-US/product/premium/cloud-integration-server">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/cloud-integration-server-logo.png" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>
+            Cloud Integration Server
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opentemplatehub.com/en-US/product/premium/saas-ui-template">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/saas-ui-logo.png" width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>
+            SaaS UI
           </b>
         </sub>
       </a>
