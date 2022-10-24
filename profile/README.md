@@ -194,7 +194,7 @@ Open Source first organization that helps you to minimize the effort while build
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/furknyavuz"><img src="https://avatars0.githubusercontent.com/u/2248168?s=460&u=435ef6ade0785a7a135ce56cae751fb3ade1d126&v=4" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a></td>
+    <td align="center"><a href="https://github.com/furknyavuz"><img src="https://raw.githubusercontent.com/furknyavuz/furknyavuz/master/assets/images/15114CB7-AD1E-480F-A547-8634109C620A_1_105_c.jpeg" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a></td>
     <td align="center"><a href="https://github.com/fatihturker"><img src="https://avatars1.githubusercontent.com/u/2202179?s=460&u=261b1129e7106c067783cb022ab9999aad833bdc&v=4" width="100px;" alt=""/><br /><sub><b>Fatih Turker</b></sub></a></td>
     <td align="center"><a href="https://github.com/mertlsarac"><img src="https://avatars1.githubusercontent.com/u/38442589?s=400&u=aa3cda11724fc297a0bfa6beb35c9be81687cf3c&v=4" width="100px;" alt=""/><br /><sub><b>Mert Sarac</b></sub></a></td>
     <td align="center"><a href="https://github.com/kerimalp"><img src="https://avatars.githubusercontent.com/u/90132495?v=4" width="100px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a></td>
