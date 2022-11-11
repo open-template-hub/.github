@@ -18,45 +18,91 @@ Open Source first organization that helps you to minimize the effort while build
       <a href="https://github.com/open-template-hub/auth-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/auth-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Auth Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/auth-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_auth-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/badge/Postman-Test%20Results-FF6C37?style=for-the-badge&logo=postman" height="25px;" alt=""/>
     <td align="center">
       <a href="https://github.com/open-template-hub/payment-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/payment-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Payment Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/payment-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_payment-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/open-template-hub/file-storage-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/file-storage-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             File Storage Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/file-storage-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_file-storage-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
     <td align="center">
       <a href="https://github.com/open-template-hub/business-logic-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/business-logic-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Business Logic Server
-          </b>
-        </sub>
+        </b>
       </a>
+    </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/business-logic-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_business-logic-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
     </td>
   </tr>
   <tr>
@@ -64,35 +110,68 @@ Open Source first organization that helps you to minimize the effort while build
       <a href="https://github.com/open-template-hub/analytics-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/analytics-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Analytics Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/analytics-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_analytics-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
     <td align="center">
       <a href="https://github.com/open-template-hub/mail-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/mail-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Mail Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/mail-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_mail-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/open-template-hub/sms-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/sms-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             SMS Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+        <img src="https://img.shields.io/github/license/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/sms-server-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_sms-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
   </tr>
 </table>
 
