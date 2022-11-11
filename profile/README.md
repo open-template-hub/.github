@@ -37,6 +37,7 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_auth-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
+    </td>
     <td align="center">
       <a href="https://github.com/open-template-hub/payment-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/payment-server-logo.png" width="100px;" alt=""/>
@@ -86,6 +87,7 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_file-storage-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
+    </td>
     <td align="center">
       <a href="https://github.com/open-template-hub/business-logic-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/business-logic-server-logo.png" width="100px;" alt=""/>
@@ -135,6 +137,7 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_analytics-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
+    </td>
     <td align="center">
       <a href="https://github.com/open-template-hub/mail-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/mail-server-logo.png" width="100px;" alt=""/>
@@ -184,6 +187,7 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_sms-server-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
+    </td>
   </tr>
 </table>
 
@@ -195,44 +199,98 @@ Open Source first organization that helps you to minimize the effort while build
       <a href="https://github.com/open-template-hub/web-ui-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/web-ui-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Web UI
-          </b>
-        </sub>
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/web-ui-template">
+        <img src="https://img.shields.io/github/license/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/web-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_web-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/open-template-hub/mobile-ui-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/mobile-ui-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Mobile UI
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/mobile-ui-template">
+        <img src="https://img.shields.io/github/license/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/mobile-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_mobile-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/open-template-hub/company-profile-ui-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/web-ui-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Company Profile UI
-          </b>
-        </sub>
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/company-profile-ui-template">
+        <img src="https://img.shields.io/github/license/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/company-profile-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_company-profile-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/open-template-hub/admin-ui-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/admin-ui-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Admin UI
-          </b>
-        </sub>
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/admin-ui-template">
+        <img src="https://img.shields.io/github/license/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/admin-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_admin-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
   </tr>
@@ -246,33 +304,44 @@ Open Source first organization that helps you to minimize the effort while build
       <a href="https://opentemplatehub.com/en-US/product/premium/orchestration-server-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/orchestration-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Orchestration Server
-          </b>
-        </sub>
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://opentemplatehub.com/en-US/product/premium/orchestration-server-template">
+        <img src="https://img.shields.io/badge/License-OTH-d6b140?style=for-the-badge" height="25px;" alt=""/>
       </a>
     </td>
     <td align="center">
       <a href="https://opentemplatehub.com/en-US/product/premium/cloud-integration-server">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/cloud-integration-server-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             Cloud Integration Server
-          </b>
-        </sub>
+        </b>
       </a>
     </td>
+    <td align="left">
+      <a href="https://opentemplatehub.com/en-US/product/premium/cloud-integration-server">
+        <img src="https://img.shields.io/badge/License-OTH-d6b140?style=for-the-badge" height="25px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://opentemplatehub.com/en-US/product/premium/saas-ui-template">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/saas-ui-logo.png" width="100px;" alt=""/>
         <br />
-        <sub>
-          <b>
+        <b>
             SaaS UI
-          </b>
-        </sub>
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://opentemplatehub.com/en-US/product/premium/saas-ui-template">
+        <img src="https://img.shields.io/badge/License-OTH-d6b140?style=for-the-badge" height="25px;" alt=""/>
       </a>
     </td>
   </tr>
