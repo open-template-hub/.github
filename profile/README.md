@@ -356,97 +356,257 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
         <br />
         <b>
-            Web UI
+            Animated Code Editor
         </b>
       </a>
     </td>
     <td align="left">
-      <a href="https://github.com/open-template-hub/web-ui-template">
-        <img src="https://img.shields.io/github/license/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+      <a href="https://github.com/open-template-hub/animated-code-editor">
+        <img src="https://img.shields.io/github/license/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/release/open-template-hub/web-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/release/open-template-hub/animated-code-editor?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_web-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_animated-code-editor?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/open-template-hub/mobile-ui-template">
-        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/mobile-ui-logo.png" width="100px;" alt=""/>
+      <a href="https://github.com/open-template-hub/led">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
         <br />
         <b>
-            Mobile UI
+            Led
         </b>
       </a>
     </td>
     <td align="left">
-      <a href="https://github.com/open-template-hub/mobile-ui-template">
-        <img src="https://img.shields.io/github/license/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+      <a href="https://github.com/open-template-hub/led">
+        <img src="https://img.shields.io/github/license/open-template-hub/led?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/led?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/led?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/led?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/release/open-template-hub/mobile-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/release/open-template-hub/led?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_mobile-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_led?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/open-template-hub/company-profile-ui-template">
-        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/web-ui-logo.png" width="100px;" alt=""/>
+      <a href="https://github.com/open-template-hub/card">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
         <br />
         <b>
-            Company Profile UI
+            Card
         </b>
       </a>
     </td>
     <td align="left">
-      <a href="https://github.com/open-template-hub/company-profile-ui-template">
-        <img src="https://img.shields.io/github/license/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+      <a href="https://github.com/open-template-hub/card">
+        <img src="https://img.shields.io/github/license/open-template-hub/card?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/card?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/card?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/card?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/release/open-template-hub/company-profile-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/release/open-template-hub/card?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_company-profile-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_card?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/open-template-hub/admin-ui-template">
-        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/ui/admin-ui-logo.png" width="100px;" alt=""/>
+      <a href="https://github.com/open-template-hub/button">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
         <br />
         <b>
-            Admin UI
+            Button
         </b>
       </a>
     </td>
     <td align="left">
-      <a href="https://github.com/open-template-hub/admin-ui-template">
-        <img src="https://img.shields.io/github/license/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+      <a href="https://github.com/open-template-hub/button">
+        <img src="https://img.shields.io/github/license/open-template-hub/button?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/button?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/button?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/last-commit/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/button?color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/github/release/open-template-hub/admin-ui-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <img src="https://img.shields.io/github/release/open-template-hub/button?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
         <br/>
-        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_admin-ui-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_button?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/hero">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            Hero
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/hero">
+        <img src="https://img.shields.io/github/license/open-template-hub/hero?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/hero?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/hero?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/hero?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/hero?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_hero?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/ui-library-template">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            UI Library Template
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/ui-library-template">
+        <img src="https://img.shields.io/github/license/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/ui-library-template?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_ui-library-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Other Open Source Libraries
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/swagger-decorators">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            Swagger Decorators
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/swagger-decorators">
+        <img src="https://img.shields.io/github/license/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/swagger-decorators?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_swagger-decorators?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/common">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            Common
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/common">
+        <img src="https://img.shields.io/github/license/open-template-hub/common?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/common?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/common?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/common?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/common?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_common?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Open Source Plugins
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/logo/intellij.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            IntelliJ Theme
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin">
+        <img src="https://img.shields.io/github/license/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/oth-intellij-theme-plugin?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/oth-vscode-theme-plugin">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/logo/vscode.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            VSCode Theme
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/oth-vscode-theme-plugin">
+        <img src="https://img.shields.io/github/license/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/oth-vscode-theme-plugin?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-vscode-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
       </a>
     </td>
   </tr>
