@@ -296,6 +296,61 @@ Open Source first organization that helps you to minimize the effort while build
   </tr>
 </table>
 
+### CLI Generators
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/server-generator">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/generator/server-generator-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            Server Generator
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/server-generator">
+        <img src="https://img.shields.io/github/license/open-template-hub/server-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/server-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/server-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/server-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/server-generator?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_server-generator?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/open-template-hub/app-generator">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/generator/server-generator-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            UI Generator
+        </b>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/open-template-hub/app-generator">
+        <img src="https://img.shields.io/github/license/open-template-hub/app-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/app-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/app-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/app-generator?color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/app-generator?include_prereleases&color=43b043&style=for-the-badge" height="25px;" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_app-generator?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" height="25px;" alt=""/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### Premium Packages
 
 <table>
@@ -353,7 +408,7 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td align="center">
       <a href="https://github.com/open-template-hub/animated-code-editor">
-        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/generator/server-generator-logo.png" width="100px;" alt=""/>
         <br />
         <b>
             Animated Code Editor
