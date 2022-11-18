@@ -563,7 +563,7 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td align="center">
       <a href="https://github.com/open-template-hub/swagger-decorators">
-        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/logo/swagger.png" width="100px;" alt=""/>
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/library/swagger-decorators-logo.png" width="100px;" alt=""/>
         <br />
         <b>
             Swagger Decorators
