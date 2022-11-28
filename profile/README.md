@@ -10,6 +10,12 @@ Open Template Hub
 
 Open Source first organization that helps you to minimize the effort while building a new software business with our server and UI templates
 
+<img src="https://img.shields.io/github/stars/open-template-hub?color=43b043&style=for-the-badge" alt=""/>
+<img src="https://img.shields.io/badge/Open%20Source%20Ratio-88%25-red?color=43b043&style=for-the-badge" alt=""/>
+<a href="https://discord.com/invite/wa9hmmR">
+    <img src="https://img.shields.io/discord/530886171132166144?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt=""/>
+</a>
+
 ### Open Source Server Packages
 
 <table>
@@ -345,6 +351,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/server-generator?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_server-generator?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/server-generator?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -360,6 +368,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/app-generator?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_app-generator?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/app-generator?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
@@ -457,6 +467,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/animated-code-editor?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_animated-code-editor?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/animated-code-editor?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -472,6 +484,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/led?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_led?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/led?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
@@ -509,6 +523,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/card?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_card?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/card?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -524,6 +540,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/button?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_button?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/button?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
@@ -561,6 +579,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/hero?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_hero?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/hero?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -576,6 +596,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/ui-library-template?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_ui-library-template?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/ui-library-template?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
@@ -618,6 +640,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/swagger-decorators?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_swagger-decorators?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/swagger-decorators?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -633,6 +657,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/common?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_common?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/common?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
@@ -675,6 +701,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/oth-intellij-theme-plugin?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Jetbrains&style=for-the-badge&logo=jetbrains" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -690,6 +718,8 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/oth-vscode-theme-plugin?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-vscode-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/visual-studio-marketplace/r/OpenTemplateHub.oth-theme?label=vscode&logo=visual%20studio&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
