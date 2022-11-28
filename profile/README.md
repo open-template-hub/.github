@@ -10,11 +10,13 @@ Open Template Hub
 
 Open Source first organization that helps you to minimize the effort while building a new software business with our server and UI templates
 
+<div>
 <img src="https://img.shields.io/github/stars/open-template-hub?color=43b043&style=for-the-badge" alt=""/>
 <img src="https://img.shields.io/badge/Open%20Source%20Ratio-88%25-red?color=43b043&style=for-the-badge" alt=""/>
 <a href="https://discord.com/invite/wa9hmmR">
     <img src="https://img.shields.io/discord/530886171132166144?color=7289da&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt=""/>
 </a>
+</div>
 
 ### Open Source Server Packages
 
