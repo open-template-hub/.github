@@ -709,7 +709,9 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
         <br/>
-        <img src="https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Jetbrains&style=for-the-badge&logo=jetbrains" alt=""/>
+        <img src="https://img.shields.io/jetbrains/plugin/d/18932-oth-theme.svg?style=for-the-badge&logo=jetbrains" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Rating&logo=jetbrains&style=for-the-badge" alt=""/>
       </a>
     </td>
     <td width="300px" align="center">
@@ -726,7 +728,7 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-vscode-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
         <br/>
-        <img src="https://img.shields.io/visual-studio-marketplace/r/OpenTemplateHub.oth-theme?label=vscode&logo=visual%20studio&style=for-the-badge" alt=""/>
+        <img src="https://img.shields.io/visual-studio-marketplace/r/OpenTemplateHub.oth-theme?label=Rating&logo=visual%20studio&style=for-the-badge" alt=""/>
       </a>
     </td>
   </tr>
