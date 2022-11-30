@@ -19,8 +19,8 @@ Open Source first organization that helps you to minimize the effort while build
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/badge/github.png" width="260"/>
-<img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/badge/heroku.png" width="260"/>
+<img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/badge/github.png" height="145"/>
+<img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/third-parties/badge/heroku.png" height="145"/>
 </div>
 
 ### Open Source Server Packages
@@ -709,6 +709,8 @@ Open Source first organization that helps you to minimize the effort while build
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-intellij-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
         <br/>
+        <img src="https://img.shields.io/jetbrains/plugin/v/18932-oth-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" alt=""/>
+        <br/>
         <img src="https://img.shields.io/jetbrains/plugin/d/18932-oth-theme.svg?style=for-the-badge&logo=jetbrains" alt=""/>
         <br/>
         <img src="https://img.shields.io/jetbrains/plugin/r/rating/18932-oth-theme?label=Rating&logo=jetbrains&style=for-the-badge" alt=""/>
@@ -727,6 +729,10 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/github/release/open-template-hub/oth-vscode-theme-plugin?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_oth-vscode-theme-plugin?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/visual-studio-marketplace/v/OpenTemplateHub.oth-theme?style=for-the-badge&logo=visual%20studio" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/visual-studio-marketplace/i/OpenTemplateHub.oth-theme?label=Downloads&logo=visual%20studio&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/visual-studio-marketplace/r/OpenTemplateHub.oth-theme?label=Rating&logo=visual%20studio&style=for-the-badge" alt=""/>
       </a>
