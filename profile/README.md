@@ -49,6 +49,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/auth-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/auth-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -64,6 +66,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/payment-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/payment-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -101,6 +105,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/file-storage-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/file-storage-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -116,6 +122,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/business-logic-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/business-logic-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -153,6 +161,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/analytics-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/analytics-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -168,6 +178,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/mail-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/mail-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -196,6 +208,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/sms-server-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/sms-server-template?color=43b043&style=for-the-badge" alt=""/>
@@ -238,6 +252,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/web-ui-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/web-ui-template?color=43b043&style=for-the-badge" alt=""/>
@@ -253,6 +269,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/mobile-ui-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/mobile-ui-template?color=43b043&style=for-the-badge" alt=""/>
@@ -290,6 +308,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/company-profile-ui-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/company-profile-ui-template?color=43b043&style=for-the-badge" alt=""/>
@@ -305,6 +325,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/admin-ui-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/admin-ui-template?color=43b043&style=for-the-badge" alt=""/>
@@ -347,6 +369,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/server-generator">
+        <img src="https://img.shields.io/github/stars/open-template-hub/server-generator?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/server-generator?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/server-generator?color=43b043&style=for-the-badge" alt=""/>
@@ -364,6 +388,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/app-generator">
+        <img src="https://img.shields.io/github/stars/open-template-hub/app-generator?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/app-generator?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/app-generator?color=43b043&style=for-the-badge" alt=""/>
@@ -463,6 +489,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/animated-code-editor">
+        <img src="https://img.shields.io/github/stars/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/animated-code-editor?color=43b043&style=for-the-badge" alt=""/>
@@ -480,6 +508,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/led">
+        <img src="https://img.shields.io/github/stars/open-template-hub/led?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/led?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/led?color=43b043&style=for-the-badge" alt=""/>
@@ -519,6 +549,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/card">
+        <img src="https://img.shields.io/github/stars/open-template-hub/card?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/card?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/card?color=43b043&style=for-the-badge" alt=""/>
@@ -536,6 +568,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/button">
+        <img src="https://img.shields.io/github/stars/open-template-hub/button?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/button?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/button?color=43b043&style=for-the-badge" alt=""/>
@@ -575,6 +609,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/hero">
+        <img src="https://img.shields.io/github/stars/open-template-hub/hero?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/hero?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/hero?color=43b043&style=for-the-badge" alt=""/>
@@ -592,6 +628,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/ui-library-template">
+        <img src="https://img.shields.io/github/stars/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" alt=""/>
@@ -636,6 +674,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/swagger-decorators">
+        <img src="https://img.shields.io/github/stars/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/swagger-decorators?color=43b043&style=for-the-badge" alt=""/>
@@ -653,6 +693,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/common">
+        <img src="https://img.shields.io/github/stars/open-template-hub/common?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/common?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/common?color=43b043&style=for-the-badge" alt=""/>
@@ -697,6 +739,8 @@ Open Source first organization that helps you to minimize the effort while build
   <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/oth-intellij-theme-plugin">
+        <img src="https://img.shields.io/github/stars/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/oth-intellij-theme-plugin?color=43b043&style=for-the-badge" alt=""/>
@@ -718,6 +762,8 @@ Open Source first organization that helps you to minimize the effort while build
     </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/oth-vscode-theme-plugin">
+        <img src="https://img.shields.io/github/stars/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
         <img src="https://img.shields.io/github/license/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" alt=""/>
         <br/>
         <img src="https://img.shields.io/github/issues/open-template-hub/oth-vscode-theme-plugin?color=43b043&style=for-the-badge" alt=""/>
