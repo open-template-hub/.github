@@ -1,8 +1,8 @@
 ---
 name: Bug Report
-about: Create a bug report 
+about: Create a bug report
 title: ''
-labels: bug 
+labels: bug
 assignees: ''
 
 ---
@@ -14,9 +14,6 @@ assignees: ''
 
 Define the problem clearly
 
-
-
-
 ## Supplementary Info
 
 Links, images, screenshots etc.
@@ -24,4 +21,4 @@ Links, images, screenshots etc.
 
 
 
-<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2021</b></td></tr></table>
+<table align="right"><tr><td><a href="https://opentemplatehub.com"><img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="50px" alt="oth"/></a></td><td><b>Open Template Hub © 2023</b></td></tr></table>

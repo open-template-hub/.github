@@ -588,6 +588,15 @@ Open Source first organization that helps you to minimize the effort while build
   </tr>
   <tr>
     <td width="300px" align="center">
+      <a href="https://github.com/open-template-hub/countdown">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            Countdown
+        </b>
+      </a>
+    </td>
+    <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/hero">
         <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
         <br />
@@ -596,17 +605,27 @@ Open Source first organization that helps you to minimize the effort while build
         </b>
       </a>
     </td>
-    <td width="300px" align="center">
-      <a href="https://github.com/open-template-hub/ui-library-template">
-        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
-        <br />
-        <b>
-            UI Library Template
-        </b>
-      </a>
-    </td>
   </tr>
   <tr>
+    <td width="300px" align="center">
+      <a href="https://github.com/open-template-hub/countdown">
+        <img src="https://img.shields.io/github/stars/open-template-hub/countdown?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/license/open-template-hub/countdown?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues/open-template-hub/countdown?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/issues-pr-closed-raw/open-template-hub/countdown?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/last-commit/open-template-hub/countdown?color=43b043&style=for-the-badge" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/github/release/open-template-hub/countdown?include_prereleases&color=43b043&style=for-the-badge" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/sonar/quality_gate/open-template-hub_countdown?server=https%3A%2F%2Fsonarcloud.io&label=Sonar%20Cloud&style=for-the-badge&logo=sonarcloud" alt=""/>
+        <br/>
+        <img src="https://img.shields.io/npm/dt/@open-template-hub/countdown?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
+      </a>
+    </td>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/hero">
         <img src="https://img.shields.io/github/stars/open-template-hub/hero?color=43b043&style=for-the-badge" alt=""/>
@@ -626,6 +645,19 @@ Open Source first organization that helps you to minimize the effort while build
         <img src="https://img.shields.io/npm/dt/@open-template-hub/hero?color=CB3837&logo=npm&style=for-the-badge" alt=""/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td width="300px" align="center">
+      <a href="https://github.com/open-template-hub/ui-library-template">
+        <img src="https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo.png" width="100px;" alt=""/>
+        <br />
+        <b>
+            UI Library Template
+        </b>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="300px" align="center">
       <a href="https://github.com/open-template-hub/ui-library-template">
         <img src="https://img.shields.io/github/stars/open-template-hub/ui-library-template?color=43b043&style=for-the-badge" alt=""/>

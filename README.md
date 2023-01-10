@@ -5,7 +5,7 @@
  </p>
 
 <h1 align="center">
-Open Template Hub .github v3
+Open Template Hub .github v5
 </h1>
 
 [![Issues](https://img.shields.io/github/issues/open-template-hub/.github?color=43b043&style=for-the-badge)](https://github.com/open-template-hub/.github/issues)
